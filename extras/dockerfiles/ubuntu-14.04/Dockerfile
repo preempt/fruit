@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 MAINTAINER Marco Poletti <poletti.marco@gmail.com>
 
 COPY custom.list /etc/apt/sources.list.d/
