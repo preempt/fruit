@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 MAINTAINER Marco Poletti <poletti.marco@gmail.com>
 
 COPY custom.list /etc/apt/sources.list.d/
